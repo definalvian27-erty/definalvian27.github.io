@@ -1,0 +1,13 @@
+{
+  "name": "chicken-geprek-nr",
+  "version": "1.0.0",
+  "description": "Website Chicken Geprek NR - preview menu + order WhatsApp + komentar/testimoni dengan backend Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
